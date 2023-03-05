@@ -4,15 +4,9 @@ This is a base project that i use to develop TypeScript and NodeJS backend appli
 
 ## 🗃️ Stack
 
----
-
 [Node.Js](https://nodejs.org/en/) - [TypeScript](https://www.typescriptlang.org/) - [NPX](https://github.com/npm/npx#readme) - [Nodemon](https://nodemon.io/) - [Fastify](https://www.fastify.io/) - [Prisma](https://www.prisma.io/) - [Zod](https://github.com/colinhacks/zod) - [Bcrypt](https://github.com/kelektiv/node.bcrypt.js) - [Vitest](https://vitest.dev/) - [Tsup](https://github.com/egoist/tsup)
 
 ## 📝 Quickstart
-
----
-
-<br>
 
 1. Clone this repository
 
