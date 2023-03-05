@@ -1,0 +1,7 @@
+# Keep environment variables out of version control
+node_modules
+.env
+.idea
+.vscode
+prisma/*.db
+src/infrastructure/database/prisma/migrations

@@ -1,0 +1,7 @@
+node_modules/
+.git
+.vscode
+src/infrastructure/database/prisma/migrations
+src/infrastructure/database/prisma/migrations_lock.toml
+src/infrastructure/database/prisma/*.db
+build
